@@ -1,1 +1,2 @@
 1. Movie Action \n2. Movie Drama\n3. Movie Advanture
+1. Series Korea \n2. Series Thaidrama\n3. Series Europe
